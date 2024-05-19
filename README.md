@@ -1,4 +1,4 @@
-```QUESTION 1A:[MULTIBROT]```
+**QUESTION 1A:[MULTIBROT]**
 
 ````
 TIME COMPLEXITY: O(K*log(D)*(N*M)/size), 
@@ -31,7 +31,8 @@ Considered Input as 16 16 4 2000
 - 12 process Total time (s): 1.198
 ````
 
-```QUESTION 2:[FLOYD_WARSHALL]```
+**QUESTION 2:[FLOYD_WARSHALL]**
+
 ````
 TIME COMPLEXITY: O(N*(N/size)*N)
 
@@ -61,7 +62,7 @@ Considered Input for n = 40
 - 12 process Total time (s): 1.759
 ````
 
-```QUESTION 3:[GAME_OF_LIFE]```
+**QUESTION 3:[GAME_OF_LIFE]**
 
 ````
 TIME COMPLEXITY: O(T*(N*M)/size)
