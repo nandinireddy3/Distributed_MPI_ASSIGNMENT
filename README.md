@@ -1,4 +1,4 @@
-QUESTION 1A:[MULTIBROT]
+```QUESTION 1A:[MULTIBROT]```
 
 TIME COMPLEXITY: O(K*log(D)*(N*M)/size), 
 K = no.of iterations, log(D) -> pow()
