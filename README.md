@@ -1,6 +1,6 @@
 # Ananlysis of the problems
 
-**QUESTION 1A:[MULTIBROT]**
+### **QUESTION 1A:[MULTIBROT]**
 
 
 ````
@@ -34,7 +34,7 @@ Considered Input as 16 16 4 2000
 - 12 process Total time (s): 1.198
 ````
 
-**QUESTION 2:[FLOYD_WARSHALL]**
+### **QUESTION 2:[FLOYD_WARSHALL]**
 
 
 ````
@@ -66,7 +66,7 @@ Considered Input for n = 40
 - 12 process Total time (s): 1.759
 ````
 
-**QUESTION 3:[GAME_OF_LIFE]**
+### **QUESTION 3:[GAME_OF_LIFE]**
 
 
 ````
