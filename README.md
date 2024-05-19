@@ -1,5 +1,5 @@
 ```QUESTION 1A:[MULTIBROT]```
-
+````
 TIME COMPLEXITY: O(K*log(D)*(N*M)/size), 
 K = no.of iterations, log(D) -> pow()
 
@@ -28,6 +28,7 @@ Considered Input as 16 16 4 2000
 - 10 process Total time (s): 1.562
 - 11 process Total time (s): 3.409
 - 12 process Total time (s): 1.198
+````
 
 ```QUESTION 2:[FLOYD_WARSHALL]```
 ````
@@ -61,6 +62,7 @@ Considered Input for n = 40
 
 ```QUESTION 3:[GAME_OF_LIFE]```
 
+````
 TIME COMPLEXITY: O(T*(N*M)/size)
 
 MESSAGE COMPLEXITY:
@@ -87,3 +89,4 @@ Considered Input for 10 10 5000
 - 10 process Total time (s): 3.985
 - 11 process Total time (s): 4.870
 - 12 process Total time (s): 3.284
+````
