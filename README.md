@@ -1,5 +1,6 @@
 **QUESTION 1A:[MULTIBROT]**
 
+
 ````
 TIME COMPLEXITY: O(K*log(D)*(N*M)/size), 
 K = no.of iterations, log(D) -> pow()
@@ -33,6 +34,7 @@ Considered Input as 16 16 4 2000
 
 **QUESTION 2:[FLOYD_WARSHALL]**
 
+
 ````
 TIME COMPLEXITY: O(N*(N/size)*N)
 
@@ -63,6 +65,7 @@ Considered Input for n = 40
 ````
 
 **QUESTION 3:[GAME_OF_LIFE]**
+
 
 ````
 TIME COMPLEXITY: O(T*(N*M)/size)
